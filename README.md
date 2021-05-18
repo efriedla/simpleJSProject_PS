@@ -1,7 +1,7 @@
 ### Daily Pokemon Mood Booster
-<p>In the little 3 page Javascript project </p>
-Name. Daily Pokemon Mood Booster
-Description. Here is a simple HTML,CSS and Javascript project, 
+In the little 3 page Javascript project 
+##### Name. Daily Pokemon Mood Booster
+##### Description. Here is a simple HTML,CSS and Javascript project, 
 [ x ] 1 Form: to recieve the users name, for an engaging experane
 [ x ] 3 pages : page 1: intro, page 2: choose pokemball, page 3 recieve a pokemon, joke, and an activity
 [ x ] Use at least 10 different HTML tags
