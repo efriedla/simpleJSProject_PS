@@ -87,12 +87,13 @@ function getNum(){
 function getIntendedPokemon1(){
     var str = document.getElementById("searchPokemon").value;
     // var pattern = /[1-9]/g;
-    let pattern = /\b(0|[1-9][0-9]?|150)\b/g;
+    // let pattern = /\b(0|[1-9][0-9]?|150)\b/g;
+    let pattern = /^([1-9][0-9]{0,2}|1000)$/g;
     let result = str.match(pattern);
     if(pattern.test(str)){
         getIntendedPokemon(str)   ;
     }else{
-        alert("sorry only numbers");
+        alert("sorry only numbers 1-150");
         return  1;
     }
 
