@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width">
+	<title>Daily Pokemon Mood Booster</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css" integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous">
+	<link href="style.css" rel="stylesheet" type="text/css" />
+
+</head>
+
+<body >
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo01" aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarTogglerDemo01">
+            <image class="navbar-brand" src="pokeball2.png" href="#"/>
+          <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
+            <li class="nav-item active">
+              <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="pokemon.html">Choose Pokemon</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="closeup.html">Daily Pokemon</a>
+              </li>
+           
+          </ul>
+          
+        </div>
+      </nav>
+
+      <header > </header>
+      <div class="main ">
+         ]
+   
+
+        
+          <div class="card text-center ">
+            <div class="card-header">
+             <h4 class="pokemon">Welcome</h4> 
+            </div>
+            <div class="card-body">
+              <h5 class="card-title">Daily <span class="pokemon">Pokemon</span> Mood Booster</h5>
+              <p class="card-text">Here you can choose your own daily pokemon </p>
+              <p class="card-text">An activity to do if your bored </p>
+              <p class="card-text">and a joke to boost your mood </p>
+              <form class="container formName" action="#">
+                <div class="form-group">
+                <input id="formName"class="form-control form-control-lg" type="text" placeholder="Your Name">
+                </div>
+                
+                <button type="submit" onclick='submitForm()' class="btn btn-primary">Submit</button>
+              </form>
+              <h2 class="gotName pokemon">bob</h2>
+              <br>
+              <a href="pokemon.html" class="btn btn-primary">Lets Go!</a>
+            </div>
+            <div class="card-footer text-muted">
+                <h4 onclick="getActivity()" class="pokemon" id="activity">activity</h4>
+            </div>
+          </div>
+	
+
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.min.js" integrity="sha384-j0CNLUeiqtyaRmlzUHCPZ+Gy5fQu0dQ6eZ/xAww941Ai1SxSY+0EQqNXNE6DZiVc" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-Piv4xVNRyMGpqkS2by6br4gNJ7DXjqk09RmUpJ8jgGtD7zP9yug3goQfGII0yAns" crossorigin="anonymous"></script>
+    <script src="index.js"></script>
+    
+  </body>
+</html>

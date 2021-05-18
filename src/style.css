@@ -1,0 +1,49 @@
+/* pokemon Font */
+@import url(https://fonts.googleapis.com/css?family=Sigmar+One);
+.body{
+    font: 16pt 'sigmar one';
+    
+}
+.navbar-brand{
+    max-width: 49px;
+}
+#pokeBall{
+    /* width: auto; */
+    max-width: 52%;
+}
+.main{
+    background-color:  rgb(62 91 168);
+}
+
+header{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcrqczL4IxvhtfHqmvcoEDRHC2Agi2dmc7pQ&usqp=CAU");
+    background-repeat: no-repeat;
+    min-height: 200px;
+    background-position: center;
+}
+.celebrationHeader{
+    background-image: url("https://cstms.berkeley.edu/wp-content/uploads/2020/10/Fireworks.png");
+    background-repeat: no-repeat;
+    min-height: 200px;
+    background-position: center;
+}
+a{
+    font: 18pt 'sigmar one';
+    color: rgb(253 204 2);
+}
+.yellow{
+    color: rgb(253 204 2);
+}
+.pokemon{
+    
+    font: 16pt 'sigmar one';
+
+    /* text-shadow: 2px 1px 14px rgba(62, 91, 168, 0.5); */
+    /* -webkit-text-stroke: 4px rgb(62 91 168); */
+}
+.lab{
+    background-color: pink;
+}
+.larger{
+    font-size: 27px;
+}
