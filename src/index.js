@@ -25,9 +25,6 @@ function getJoke(){
     xmlhttp.open("GET", "https://official-joke-api.appspot.com/random_joke", true);
     xmlhttp.send();
 } 
-//https://official-joke-api.appspot.com/random_joke
-
-
 
 //pokemon
 let pokemonNumber = getNum();
@@ -52,10 +49,7 @@ function getPokemon(){
 } 
 
 //get intended pokemon
-function getIntendedPokemon(num){
-
-       console.log("in function "+ num);
-    
+function getIntendedPokemon(num){    
         var xmlhttp = new XMLHttpRequest();
         xmlhttp.onreadystatechange = function() {
         if (this.readyState == 4 && this.status == 200) {
@@ -80,7 +74,6 @@ function getIntendedPokemon(num){
             $("#pokeType2").show();
             document.getElementById("pokeType2").innerHTML = myObj.types[0].type.name;
             $("#pokeType").hide();
-            console.log(myObj.species.name);
         }
         };
         xmlhttp.open("GET", "https://pokeapi.co/api/v2/pokemon/"+ num, true);
@@ -96,15 +89,10 @@ function getIntendedPokemon1(){
     // var pattern = /[1-9]/g;
     let pattern = /\b(0|[1-9][0-9]?|150)\b/g;
     let result = str.match(pattern);
-    //console.log(str);
-    //console.log(pattern.test(str)+ " here");
     if(pattern.test(str)){
-        console.log(str + " here");
         getIntendedPokemon(str)   ;
-       
-       
     }else{
-        console.log(" here");
+        alert("sorry only numbers");
         return  1;
     }
 
@@ -130,10 +118,8 @@ function submitForm() {
             alert("sorry no numbers for names");
         }
         
-        
-
+    
     }
     
   }
 
-// https://pokeapi.co/api/v2/pokemon?limit=100&offset=200
