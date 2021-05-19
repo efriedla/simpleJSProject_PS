@@ -6,20 +6,26 @@
 <h4> Description. Here is a simple HTML,CSS and Javascript project:<h4>
 
 <input type="checkbox" class="onoffswitch-checkbox" id="inline" checked> 
-<label for="vehicle1"> 2 Forms: to recieve the users name, for an engaging experane</label><br>
+<label for="vehicle1">/label><br>
 <br>
-- [x] 3 pages : page 1: intro, page 2: choose pokemball, page 3 recieve a pokemon, joke, and an activity, and a search bar in the nav that will allow you to choose a pokemon based on its number
-- [x] Use at least 10 different HTML tags
-- [x] Use HTML tables
-- [x] Implement at least two uses for forms
-- [x] Dropped Down Menu 
-- [x] Use web fonts
-- [x] Use different types of content in the form of text, images, videos, and GIFs
-- [x] Use regex validation
-- [x] Use variables, if statements, loops, at least one form of collections, functions/call back, and events
-- [x] External scripts
-- [x] Inline, internal, and external styling
-- [x] Use five different CSS selectors
+<h2>Requirments:</h2>
+<ul>
+  <li> 2 Forms: to recieve the users name, for an engaging experane<</li>
+  <li>3 pages : page 1: intro, page 2: choose pokemball, page 3 recieve a pokemon, joke, and an activity, and a search bar in the nav that will allow you to choose a pokemon based on its number</li>
+  <li>Use at least 10 different HTML tags</li>
+  <li>Use HTML tables</li>
+  <li>Implement at least two uses for forms</li>
+  <li>Dropped Down Menu </li>
+  <li>Use web fonts</li>
+  <li>Use different types of content in the form of text, images, videos, and GIFs</li>
+  <li>Use regex validation</li>
+  <li>Use variables, if statements, loops, at least one form of collections, functions/call back, and events</li>
+  <li>External scripts</li>
+  <li>Inline, internal, and external styling</li>
+  <li>Use five different CSS selectors</li>
+  <li>Milk</li>
+</ul>
+<br>
 
 * <a link="https://pokeapi.co/"> Pokemon API</a> for visuals
 * <a link="https://www.boredapi.com/"> Bored API</a> for Activitlies to add to your day
