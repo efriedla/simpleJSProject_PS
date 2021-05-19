@@ -4,7 +4,7 @@
 </div>
 <h3> Name. Daily Pokemon Mood Booster</h3>
 <h4> Description. Here is a simple HTML,CSS and Javascript project:<h4>
-<br/>
+<input type="checkbox" class="onoffswitch-checkbox" id="inline" checked> 
 - [x] 1 Form: to recieve the users name, for an engaging experane
 - [x] 3 pages : page 1: intro, page 2: choose pokemball, page 3 recieve a pokemon, joke, and an activity, and a search bar in the nav that will allow you to choose a pokemon based on its number
 - [x] Use at least 10 different HTML tags
@@ -23,4 +23,5 @@
 * <a link="https://official-joke-api.appspot.com/random_joke"> Joke API</a> for a joke to add to your day
 
 ![Screenshot](resources/pokeball2.png)
-![Page 1](/resources/Page_2.png)
+
+<img src="/resources/Page_2.png" width="50" height="100" alt="Page 1"> 
