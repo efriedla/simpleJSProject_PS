@@ -1,6 +1,6 @@
 <div align="center">
-# <img src="/resources/pokeball2.png" width="25" height="25" alt="Pokemon"> Daily Pokemon Mood Booster <img src="/resources/pokeball2.png" width="25" height="25" alt="Pokemon">
-In the little 3 page Javascript project 
+<h1><img src="/resources/pokeball2.png" width="25" height="25" alt="Pokemon"> Daily Pokemon Mood Booster <img src="/resources/pokeball2.png" width="25" height="25" alt="Pokemon"></h1>
+<p syle="color:grey">In the little 3 page Javascript project <p>
 </div>
 ##### Name. Daily Pokemon Mood Booster
 ##### Description. Here is a simple HTML,CSS and Javascript project, 
