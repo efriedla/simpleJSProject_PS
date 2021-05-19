@@ -4,7 +4,7 @@
 </div>
 <h3> Name. Daily Pokemon Mood Booster</h3>
 <h4> Description. Here is a simple HTML,CSS and Javascript project:<h4>
-<br>
+<br/>
 - [x] 1 Form: to recieve the users name, for an engaging experane
 - [x] 3 pages : page 1: intro, page 2: choose pokemball, page 3 recieve a pokemon, joke, and an activity, and a search bar in the nav that will allow you to choose a pokemon based on its number
 - [x] Use at least 10 different HTML tags
