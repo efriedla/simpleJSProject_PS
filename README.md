@@ -2,10 +2,13 @@
 <h1><img src="/resources/pokeball2.png" width="25" height="25" alt="Pokemon"> Daily Pokemon Mood Booster <img src="/resources/pokeball2.png" width="25" height="25" alt="Pokemon"></h1>
 <p syle="color:grey">In the little 3 page Javascript project <p>
 </div>
-##### Name. Daily Pokemon Mood Booster
-##### Description. Here is a simple HTML,CSS and Javascript project, 
-- [x] 1 Form: to recieve the users name, for an engaging experane
-- [x] 3 pages : page 1: intro, page 2: choose pokemball, page 3 recieve a pokemon, joke, and an activity, and a search bar in the nav that will allow you to choose a pokemon based on its number
+<h3> Name. Daily Pokemon Mood Booster</h3>
+<h4> Description. Here is a simple HTML,CSS and Javascript project:<h4>
+<input type="checkbox" class="onoffswitch-checkbox" id="inline" checked> 
+<label for="vehicle1"> 1 Form: to recieve the users name, for an engaging experane</label><br>
+<input type="checkbox" class="onoffswitch-checkbox" id="inline" checked> 
+<label for="vehicle1"> 3 pages : page 1: intro, page 2: choose pokemball, page 3 recieve a pokemon, joke, and an activity, and a search bar in the nav that will allow you to choose a pokemon based on its number</label><br>
+
 - [x] Use at least 10 different HTML tags
 - [x] Use HTML tables
 - [x] Implement at least two uses for forms
