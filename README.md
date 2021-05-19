@@ -4,6 +4,7 @@
 </div>
 <h3> Name. Daily Pokemon Mood Booster</h3>
 <h4> Description. Here is a simple HTML,CSS and Javascript project:<h4>
+<form>
 <input type="checkbox" class="onoffswitch-checkbox" id="inline" checked> 
 <label for="vehicle1"> 1 Form: to recieve the users name, for an engaging experane</label><br>
 - [x] 
@@ -19,6 +20,7 @@
 - [x] External scripts
 - [x] Inline, internal, and external styling
 - [x] Use five different CSS selectors
+</form>
 * <a link="https://pokeapi.co/"> Pokemon API</a> for visuals
 * <a link="https://www.boredapi.com/"> Bored API</a> for Activitlies to add to your day
 * <a link="https://official-joke-api.appspot.com/random_joke"> Joke API</a> for a joke to add to your day
