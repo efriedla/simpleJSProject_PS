@@ -19,5 +19,6 @@ In the little 3 page Javascript project
 * <a link="https://www.boredapi.com/"> Bored API</a> for Activitlies to add to your day
 * <a link="https://official-joke-api.appspot.com/random_joke"> Joke API</a> for a joke to add to your day
 
-![Screenshot](resources/pokeball2.png 343)
+![Screenshot](resources/pokeball2.png)
 ![Page 1](/resources/Page_2.png)
+<img src="/resources/pokeball2.png" width="300" height="400" alt="Pokemon">
