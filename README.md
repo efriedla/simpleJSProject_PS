@@ -1,4 +1,4 @@
-### Daily Pokemon Mood Booster
+### <img src="/resources/pokeball2.png" width="50" height="50" alt="Pokemon"> Daily Pokemon Mood Booster <img src="/resources/pokeball2.png" width="50" height="50" alt="Pokemon">
 In the little 3 page Javascript project 
 ##### Name. Daily Pokemon Mood Booster
 ##### Description. Here is a simple HTML,CSS and Javascript project, 
@@ -21,4 +21,3 @@ In the little 3 page Javascript project
 
 ![Screenshot](resources/pokeball2.png)
 ![Page 1](/resources/Page_2.png)
-<img src="/resources/pokeball2.png" width="300" height="400" alt="Pokemon">
